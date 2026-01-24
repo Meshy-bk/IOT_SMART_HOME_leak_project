@@ -1,5 +1,24 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm settings 
+.idea/
+*.iml
+
+# Database files
+iot.db
+*.db
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+test.py
