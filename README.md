@@ -5,6 +5,8 @@ This project simulates a **smart water leak detection and response system** usin
 The system:
 - Collects sensor data (leak + flow/pressure)
 - Logs readings/events to a local DB (`iot.db`)
+  > Note: The included iot.db file is a sample event log database provided for project demonstration and validation.
+
     (The included iot.db file is a sample log database provided for demonstration and validation purposes.)
 
 - Detects warnings/alarms
