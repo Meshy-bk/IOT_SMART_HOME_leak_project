@@ -6,9 +6,6 @@ The system:
 - Collects sensor data (leak + flow/pressure)
 - Logs readings/events to a local DB (`iot.db`)
   > Note: The included iot.db file is a sample event log database provided for project demonstration and validation.
-
-    (The included iot.db file is a sample log database provided for demonstration and validation purposes.)
-
 - Detects warnings/alarms
 - Automatically **closes a main water valve** and **activates a siren** on leak detection
 - Provides a GUI dashboard with **Reset**, **manual valve control**, and live status
